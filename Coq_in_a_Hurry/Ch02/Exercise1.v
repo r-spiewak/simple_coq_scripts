@@ -1,4 +1,5 @@
-(* Define a function that takes as input a number n and returns a list with n elements from 0 to n-1.*)
+(* Exercise on lists, map, and app
+Define a function that takes as input a number n and returns a list with n elements from 0 to n-1.*)
 
 Require Import List.
 

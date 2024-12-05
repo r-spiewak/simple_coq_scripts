@@ -1,4 +1,5 @@
-(* Write a function that takes 5 arguments and returns their sum.
+(* Exercise on functions
+Write a function that takes 5 arguments and returns their sum.
 Use Check to verify the description is well formed.
 Use Compute to force computation on a sample of values. *)
 

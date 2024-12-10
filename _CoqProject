@@ -1,0 +1,23 @@
+-R . Simple_Coq_Scripts
+#-R Coq_in_a_Hurry Coq_in_a_Hurry
+
+Coq_in_a_Hurry/Ch01/Exercise1.v
+
+Coq_in_a_Hurry/Ch02/Exercise1.v
+Coq_in_a_Hurry/Ch02/Exercise2.v
+Coq_in_a_Hurry/Ch02/Exercise3.v
+
+Coq_in_a_Hurry/Ch03/Example2.v
+Coq_in_a_Hurry/Ch03/Example6.v
+Coq_in_a_Hurry/Ch03/Exercise1.v
+Coq_in_a_Hurry/Ch03/Exercise2.v
+
+Coq_in_a_Hurry/Ch04/Exercise1.v
+Coq_in_a_Hurry/Ch04/Exercise2.v
+
+Coq_in_a_Hurry/Ch05/Example1.v
+
+Coq_in_a_Hurry/Ch06/Example1.v
+
+Coq_in_a_Hurry/Ch07/Exercise1.v
+Coq_in_a_Hurry/Ch07/Example1.v
